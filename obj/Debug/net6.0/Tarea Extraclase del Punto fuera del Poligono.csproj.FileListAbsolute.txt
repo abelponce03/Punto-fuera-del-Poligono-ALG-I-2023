@@ -1,0 +1,14 @@
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\bin\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.exe
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\bin\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.deps.json
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\bin\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.runtimeconfig.json
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\bin\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.dll
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\bin\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.pdb
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.AssemblyInfoInputs.cache
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.AssemblyInfo.cs
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.csproj.CoreCompileInputs.cache
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.dll
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\refint\Tarea Extraclase del Punto fuera del Poligono.dll
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.pdb
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\Tarea Extraclase del Punto fuera del Poligono.genruntimeconfig.cache
+C:\Users\abelp\OneDrive\Desktop\Tarea Extraclase del Punto fuera del Poligono\obj\Debug\net6.0\ref\Tarea Extraclase del Punto fuera del Poligono.dll
